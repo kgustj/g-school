@@ -15,7 +15,7 @@
 
 ## 관련 저장소
 
-- [`create-curtaincall-node`](https://github.com/kgustj/create-curtaincall-node): `curtaincall`을 과정이 끝난 뒤 Node.js로 따로 이어서 만든 버전
+- [`create-curtaincall-node`](https://github.com/kgustj/create-curtaincall-node): `curtaincall`을 개인적으로 이어서 업데이트한 Node.js 버전
 
 ## 원래 저장소
 
