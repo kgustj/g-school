@@ -7,6 +7,7 @@
 | [`portfolio`](portfolio) | G-school 포트폴리오 "Root's History in G-school": M1~M3 개인 프로젝트, 주제중심 수업, 팀 프로젝트 발표 자료 | HTML, CSS | 2021.01~ | 8 |
 | [`curtaincall`](curtaincall) | 연극 정보·커뮤니티 사이트 "커튼콜": 메인, 장르별 목록, 상세, 커뮤니티, 로그인 화면과 Express 서버 | HTML, CSS, JavaScript, Node.js, Express, Pug | 2021.05~ | 59 |
 | [`infographic-chart`](infographic-chart) | "깨토리 인포그래픽": 버튼으로 항목을 바꿔 보는 차트 페이지 | HTML, CSS, JavaScript, Chart.js | 2021.07~ | 15 |
+| [`crawler.py`](crawler.py) | M2 D-lab 수업 실습 크롤러: 네이버 쇼핑 블루투스 스피커 목록, 네이버 영화 평점 순위. 대상 사이트가 바뀌어 지금은 동작하지 않는 기록용 코드 | Python, requests, BeautifulSoup | 2021.05 | 1 |
 
 
 ## 실행
